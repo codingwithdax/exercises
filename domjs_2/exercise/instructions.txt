@@ -1,0 +1,14 @@
+You can watch the video here: https://www.youtube.com/watch?v=bOO1DfWiQ9o
+Find the github repo here: https://github.com/codingwithdax/exercises/tree/main/domjs_2
+
+Try running the solution in the solution directory (don't look at the code):
+
+exercises/domjs_2/solution
+
+You can see the expected behavior there.
+
+Now implement the solution by adding the button, text fields and javascript
+
+If you get stuck, watch the video or peek at the solution.
+
+Have fun!
