@@ -11,4 +11,4 @@ Now implement the solution by adding the button, text fields and javascript
 
 If you get stuck, watch the video or peek at the solution.
 
-Have fun!
+Thanks for trying it out!
