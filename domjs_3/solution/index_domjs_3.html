@@ -1,0 +1,37 @@
+<html>
+
+    <head>
+        <script src="domjs_3.js"></script>
+        <style>
+            #color_id {
+                vertical-align: middle;
+            }
+            #rows_id {
+                margin-left: 30px;
+            }
+
+            #rows_id, #columns_id {
+                vertical-align: middle;
+                height: 26px;
+                width: 60px;
+            }
+            .cell {
+                padding: 10px;
+                margin: 10px;
+            } 
+        </style>
+    </head>
+
+    <body>
+
+        <div>
+            <input id="rows_id"    onchange="problem3();" type="text" placeholder="enter rows"    value="0"/>
+            <input id="columns_id" onchange="problem3();" type="number" placeholder="enter columns" value="0"/>
+            <input id="color_id"   onchange="problem3();" type="color"  placeholder="enter message" value="#bb0000"/>
+        </div>
+
+        <div id="problem3_id">
+        </div>
+    </body>
+
+</html>
